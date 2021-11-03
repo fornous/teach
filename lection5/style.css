@@ -1,0 +1,27 @@
+.display {
+    width: 600px;
+    height: 400px;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    white-space: pre-line;
+    overflow: auto;
+}
+.warning {
+    color: yellow;
+}
+button {
+    background-color: violet;
+    color: white;
+    padding: 10px 10px;
+    border-radius: 10px;
+    outline: none;
+    border: solid 2px lightgray;
+    font-size: 12pt;
+}
+button:hover {
+    border-color: rgb(107, 142, 187);
+}
+.prvni {
+
+}
