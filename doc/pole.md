@@ -75,7 +75,7 @@ var index = pole.findIndex(function(item) { return item == 2; });
 
 ### Mapování pole
 
-Mapování znamená, že z původního pole vytvořím nové pole s tím, že pomocí definované funkce změním hodnotu položky. Výsledné pole tedy bude mít stejný počet prvků jako původní, ale jeho hodnoty budou jiné. Mapování se tomu říká, protože každé položce původního prvku se vytvoří odpovídající položka v novém poli.
+Mapování znamená, že z původního pole vytvořím nové pole s tím, že pomocí definované funkce změním hodnotu položky. Výsledné pole tedy bude mít stejný počet prvků jako původní, ale jeho hodnoty budou jiné. Mapování se tomu říká, protože každé položce původního pole se vytvoří odpovídající položka v novém poli.
 
 ```javascript
 // map every element of the array
